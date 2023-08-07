@@ -1,4 +1,4 @@
 # Introduction to Go Programming Language 
 
-Source: [Go By Exmaples](https://gobyexample.com/)
+Reference: [Go By Exmaples](https://gobyexample.com/)
 
